@@ -21,6 +21,8 @@ This is a cheat sheet that I am writing for myself while going through over the 
 ### Info Extraction
 
 1. `disas` - disassemble the current binary and show `eip` location in case it is being executed.
+2. `info registers` - Show the values of all of the registers.
+3.  `x/<number>/x <location>` - Show the `number` of bytes in hex from the given `location`.
 
 
 
